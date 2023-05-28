@@ -1,0 +1,13 @@
+# system
+game_name: "Honkai: Star Rail|崩坏：星穹铁道|崩壞：星穹鐵道|崩壊：スターレイル|붕괴:\xa0스타레일"
+game_path: C:\Program Files\Star Rail\Game\StarRail.exe   # path of "Star Rail" directory
+resolution_ratio:
+  - 1920
+  - 1080
+find_game_window_max_retry_time: 3
+match_template_threshold: 0.001
+
+# resource
+left_top_icon:
+  - PosterGirl.png
+
